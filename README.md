@@ -1,6 +1,6 @@
 # DISHES API
 ## A heroku app.
-### Link to heroku app [https://dishes-for-days.herokuapp.com/dishes/1](https://dishes-for-days.herokuapp.com/dishes/1)
+### Link to heroku app [https://dishes-for-days.herokuapp.com/dishes](https://dishes-for-days.herokuapp.com/dishes)
 
 #### List of routes:
 * GET    /dishes
