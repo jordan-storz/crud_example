@@ -49,7 +49,7 @@ app.put('/dishes/:id', (req, res) => {
   knex('dish')
     .where('id', dishId)
     .update(dishInfo)
-    .then((dish) => {
+     .then((dish) => {
       res.json({
         message: 'Dish info updated!',
         dish: dish[0]
